@@ -1,0 +1,30 @@
+
+
+div{
+  border: 2px solid black;
+}
+
+.parent {
+  display: flex;
+  height: 300px; /* Or whatever */
+  flex-wrap: wrap;
+  /*justify-content: space-around;*/
+
+}
+
+.child {
+  width: 10%;  /* Or whatever */
+  height: 100px; /* Or whatever */
+  background-color: #F25D6D;
+  margin: auto;  /* Magic! */
+  margin-top: 10px;
+}
+
+img{
+  height: 120%;
+}
+
+
+hr{
+  1 px solid black;
+}

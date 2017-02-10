@@ -1,0 +1,43 @@
+
+body{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.grey{
+  background-color: #DDDDDD;
+  width: 100%;
+  height:80px;
+  padding-top: 10px;
+}
+
+
+.square{
+  width: 60px;
+  height: 60px;
+  background-color: #4696E9;
+  margin-left: 10px;
+}
+
+.blue{
+  background-color: #4696E9;
+  width: 100%;
+  height: 100px;
+}
+.cyan{
+  background-color: cyan;
+  width: 100%;
+  height: 100px;
+}
+.green{
+  background-color: green;
+  width: 100%;
+  height: 100px;
+}
+.yellow{
+  background-color: yellow;
+  width: 100%;
+  height: 100px;
+}
